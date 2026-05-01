@@ -1,4 +1,5 @@
 # deepre
+//
 ┌─────────────────────────────────────────────────────────────┐​
 │                     前端展示层 (Frontend)                      │​
 │  React + TypeScript + Ant Design + ECharts + Markdown       │​
@@ -27,3 +28,4 @@
 │                  数据存储层 (Data Layer)                      │​
 │  PostgreSQL + Milvus + Redis + File Storage                 │​
 └─────────────────────────────────────────────────────────────┘
+//
